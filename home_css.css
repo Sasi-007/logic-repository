@@ -1,0 +1,37 @@
+.b{
+    background-color:#FFB88C;
+}
+body
+{
+    //background-color:#DE6262;
+    background-color:#ffcbcb;
+     //background-image: linear-gradient(red, yellow);
+}
+.f
+{
+    font-family:Montserrat-Black;
+    font-size: 1.5 rem;
+    color: #000000;
+}
+h3
+{
+    text-align: center;
+}
+.col-sm-6
+{
+    margin-left: 300px;
+}
+.form-control
+{
+    display: inline-flex;
+   
+}
+#myInput{
+         width: 126px;
+}
+footer
+{
+    margin-top: 480px;
+    width:100%;
+    text-align: center;
+}
